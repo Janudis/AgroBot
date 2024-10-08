@@ -1,7 +1,7 @@
 
 # AgroBot
 
-AgroBot is a chatbot assistant that can provide accurate agricultural satellite and other relevant data to the user, only by recieving a simple sentence as the input. The main of AgroBot is that any farmer can use this tool with or without technical or very high level scientific knowledge, resulting in easier process of making crucial decisions or predictions for their crops easier 
+AgroBot is a chatbot assistant that can provide accurate agricultural satellite and other relevant data to the user, only by recieving a simple sentence as the input. The main of AgroBot is that any farmer can use this tool with or without technical or very high level scientific knowledge, resulting in easier process of making crucial decisions or predictions for their crops easier.
 
 
 ## Demo
