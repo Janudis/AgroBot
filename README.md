@@ -21,7 +21,7 @@ For the scientific research that made AgroBot a reality contributed:
 
 ## Installation
 
-To clone the repository to your computer usen the following command line:
+To clone the repository to your computer, use the following command line:
 
 ```bash
   git clone https://github.com/Janudis/AgroBot
