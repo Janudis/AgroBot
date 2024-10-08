@@ -33,7 +33,7 @@ In the future, we plan to increase the number of satellite datasets to provide a
 ## Datasets
 
 AgroBot is able to read given data from .csv files. Generally, our team has searched and acquired data for soil moisture, air quality, floods, weather, surface temperature, droughts and vegetation growth. In this repository only the soil moisture dataset is provided, with data starting from 1/1/2002 to 22/5/2019. The dataset can be found in the ```chatbot``` folder under the name
-```soil_moisture.csv  ```
+```soil_moisture.csv```
 ## Predictions
 AgroBot is also able to provide predictions to the user, based on an AI model we developed, designed to predict soil moisture levels using a Long Short-Term Memory (LSTM) neural network. The process began with data acquisition and preprocessing, where we gathered soil moisture data, geographical coordinates (latitude and longitude), soil composition metrics (clay, sand, silt content), and auxiliary soil moisture data (sm_aux) from various NASA datasets.
 
