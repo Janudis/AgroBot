@@ -13,8 +13,8 @@ https://agrobot.streamlit.app/
 The main authors of the code of AgroBot are:
 - [Dimitris Ellinoudis](https://www.github.com/Janudis)
 - [Alexandros Mylonas](https://www.github.com/almylonas)
-- [Georgios Vellios](https://www.github.com/Niel518)
-<br/>For the scientific research that made AgroBot a reality contributed:
+- [Georgios Vellios](https://www.github.com/Niel518)\
+For the scientific research that made AgroBot a reality contributed:
 - [Vasilis Sakellaridis](https://github.com/moskovsakel)
 - Melina Mavidou
 
