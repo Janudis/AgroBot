@@ -61,7 +61,3 @@ To run this project locally, you will need to add the following environment vari
 `GOOGLE_API_KEY`
 
 You can acquire a google gemini api key at https://aistudio.google.com/app/apikey
-## Datasets
-
-AgroBot is able to read given data from .csv files. Generally, our team has searched and acquired data for soil moisture, air quality, floods, weather, surface temperature, droughts and vegetation growth. In this repository only the soil moisture dataset is provided, with data starting from 1/1/2002 to 22/5/2019. The dataset can be found in the ```chatbot``` folder under the name
-```soil_moisture.csv  ```
