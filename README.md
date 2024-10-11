@@ -41,7 +41,7 @@ Our model is an LSTM neural network. We structured the network with two LSTM lay
 
 Then, we validated our model by generating predictions for specific locations and dates, outputting the results to CSV files for easy interpretation and further use and analysis. Finally, AgroBot can read these .csv files and provide predictions to the user.
 
-The LSTM of AgroBot was developed in MATLAB.
+The LSTM of AgroBot was developed in MATLAB and TensorFlow.
 ## Installation
 
 To clone the repository to your computer usen the following command line:
