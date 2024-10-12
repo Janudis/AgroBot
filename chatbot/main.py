@@ -227,7 +227,7 @@ if user_prompt:
     
     if "MODIS" in user_prompt or "NDVI" in user_prompt or "vegetation" in user_prompt:
         # Default region and date range for testing
-        region = ee.Geometry.Point([23.7275, 37.9838])  # e.g., Athens, Greece
+        region = ee.Geometry.Point([-95.4107, 31.7662])  # e.g., Athens, Greece
         start_date = '2023-01-01'
         end_date = '2023-12-31'
         
@@ -243,7 +243,7 @@ if user_prompt:
     
     elif "surface soil moisture" in user_prompt or "SMAP" in user_prompt:
         # Default region and date range for testing
-        region = ee.Geometry.Point([23.7275, 37.9838])  # e.g., Athens, Greece
+        region = ee.Geometry.Point([-95.4107, 31.7662])  # e.g., Athens, Greece
         start_date = '2023-01-01'
         end_date = '2023-12-31'
         
@@ -258,7 +258,7 @@ if user_prompt:
             st.markdown(soil_moisture_response)
     elif "surface temperature" in user_prompt or "LST" in user_prompt:
         # Default region and date range for testing
-        region = ee.Geometry.Point([23.7275, 37.9838])  # e.g., Athens, Greece
+        region = ee.Geometry.Point([-95.4107, 31.7662])  # e.g., Athens, Greece
         start_date = '2023-01-01'
         end_date = '2023-12-31'
         
@@ -272,7 +272,7 @@ if user_prompt:
         with st.chat_message("assistant"):
             st.markdown(surface_temp_response) 
     elif "carbon monoxide" in user_prompt or "Sentinel 5P" in user_prompt or "CO" in user_prompt:
-        region = ee.Geometry.Point([23.7275, 37.9838])  # Coordinates for Athens, Greece
+        region = ee.Geometry.Point([-95.4107, 31.7662])  # Coordinates for Athens, Greece
         start_date = '2023-01-01'
         end_date = '2023-12-31'
         # Get carbon monoxide concentration
@@ -283,7 +283,7 @@ if user_prompt:
         with st.chat_message("assistant"):
             st.markdown(co_concentration_response) 
     elif "aerosol" in user_prompt or "Sentinel 5P" in user_prompt:
-        region = ee.Geometry.Point([23.7275, 37.9838])  # Coordinates for Athens, Greece
+        region = ee.Geometry.Point([-95.4107, 31.7662])  # Coordinates for Athens, Greece
         start_date = '2023-01-01'
         end_date = '2023-12-31'
         # Get carbon monoxide concentration
