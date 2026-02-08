@@ -6,7 +6,7 @@ AgroBot is a chatbot assistant that can provide accurate agricultural satellite 
 
 ## Demo
 
-![AgroBot demo](agrobot.mp4)
+<video src="assets/agrobot.mp4" controls muted playsinline style="max-width: 100%; height: auto;"></video>
 
 Live demo: https://agrobot.streamlit.app/
 
